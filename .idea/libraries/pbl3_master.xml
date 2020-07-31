@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="pbl3-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hight_cmac.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hight.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MyWiFidemo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MyWiFi_0610.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
